@@ -33,15 +33,15 @@
 
 | 회차 | 일자 |                             계획                             | 작성   |
 | :--: | :--: | :----------------------------------------------------------: | ------ |
-| 1회  | 미정 | - Bitcoin: A Peer-to-Peer Electronic Cash Sys 논문 읽기<br/>- 인프런 강의([1. 인트로, 2. 기존 블록체인 플랫폼의 약점, 3. 클레이튼 이해하기](https://www.inflearn.com/course/클레이튼)) 수강<br/>- 인프런 강의([블록체인과 솔리디티](https://www.inflearn.com/course/블록체인-blockchain)) 수강 —> **결과물 : 투표앱(이더리움)** | 이성희 |
-| 2회  | 미정 | - 인프런 강의([4. 클레이튼 덧셈게임 개발 with Klaytn Tools, 5. 클레이튼 덧셈게임 개발 프론트앤드 6. 마무리](https://www.inflearn.com/course/클레이튼)) 수강 —> **결과물 : 덧셈게임, 인프런 수강완료 캡쳐** <br/> - 이더리움 백서([Introduction to Bitcoin and Existing Concepts](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper#비트코인과-기존-개념들에-대한-소개introduction-to-bitcoin-and-existing-concepts)) 공부<br/> - ~~BApp 기획(앱 주제 선정, 사용 기술 확정, 기능 정리, 일정 계획, 업무 분담)~~ | 정지우 |
-| 3회  | 미정 | - 클레이튼 예제 코딩(1주차에서 만든 투표앱을 Klaytn으로 구현) —> **결과물 : 투표앱(클레이튼)**<br/>- 이더리움 백서([이더리움](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper#이더리움), [어플리케이션](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper#어플리케이션applications)) 공부 <br/> - BApp 아키텍쳐 설계(디자인, 데이터베이스, 스마트 컨트랙트) | 최은지 |
+| 1회  | 8/12 | - Bitcoin: A Peer-to-Peer Electronic Cash Sys 논문 읽기<br/>- 인프런 강의([1. 인트로, 2. 기존 블록체인 플랫폼의 약점, 3. 클레이튼 이해하기](https://www.inflearn.com/course/클레이튼)) 수강<br/>- 인프런 강의([블록체인과 솔리디티](https://www.inflearn.com/course/블록체인-blockchain)) 수강 —> **결과물 : 투표앱(이더리움)** | 이성희 |
+| 2회  | 8/19 | - 인프런 강의([4. 클레이튼 덧셈게임 개발 with Klaytn Tools, 5. 클레이튼 덧셈게임 개발 프론트앤드 6. 마무리](https://www.inflearn.com/course/클레이튼)) 수강 —> **결과물 : 덧셈게임, 인프런 수강완료 캡쳐** <br/> - 비트코인 기본 개념 조사<br/>- BApp 기획(앱 주제 선정, 사용 기술 확정, 기능 정리, 일정 계획, 업무 분담) | 정지우 |
+| 3회  | 미정 | - 클레이튼 tutorial : Klaystagram 구현 --> **결과물 : Klaystagram**<br/>- 클레이튼 docs 조사 및 공부<br/> - BApp 아키텍쳐 설계(디자인, 데이터베이스, 스마트 컨트랙트) | 최은지 |
 | 4회  | 미정 | - 인프런 강의([블록체인 Dapp 개발에 트러플 활용하기_기본편](https://www.inflearn.com/course/Dapp-Truffle-blockchain-basic)) 수강 <br/> - 인프런 강의([블록체인 Dapp 이더리움_트랜잭션](https://www.inflearn.com/course/블록체인-Dapp-이더리움-트랜잭션#description)) 수강 <br/>- BApp 개발 시작 | 이성희 |
 | 5회  | 미정 |                         - BApp 개발                          | 배수혜 |
 | 6회  | 미정 |     - BApp 개발 완성 및 결과물 제출 —> **결과물 : BApp**     | 최리안 |
 
 * 모임 장소 : 명지대학교 학관 4층
-* 모임 일자 : 금요일 저녁 6시
+* 모임 일자 : 월요일 저녁 6시
 * BApp 사용 기술(예정) : React, node.js
 
 <br/>
@@ -49,13 +49,13 @@
 ## 예상 결과물
 
 - 1회 
-  - 이더리움으로 만든 투표 앱
-  - 활동 내역 markdown 
+  - [이더리움으로 만든 투표 앱](https://github.com/klaytn-study/Voting-Ethereum-DApp)
+  - [활동 내역 markdown](https://github.com/klaytn-study/Klaytn-study-plan/blob/master/1회.md)
 - 2회
   - 덧셈 게임
   - 활동 내역 markdown (+ 인프런 수강 완료 캡쳐)
 - 3회
-  - 클레이튼으로 만든 투표앱
+  - Klaystagram
   - 활동 내역 markdown
 - 4회
   - 활동 내역 markdown
@@ -69,9 +69,7 @@
 
 ## BApp 주제
 
-펫시터 중개 웹사이트 
-
-- 블록체인 기술을 통해 중개 수수료를 없애고 보다 투명하고 신뢰할 수 있는 펫시터 중개 사이트를 구축할 계획
+강의 평가 웹사이트
 
 <br/>
 
