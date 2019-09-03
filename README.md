@@ -35,8 +35,8 @@
 | :--: | :--: | :----------------------------------------------------------: | ------ |
 | 1회  | 8/12 | - Bitcoin: A Peer-to-Peer Electronic Cash Sys 논문 읽기<br/>- 인프런 강의([1. 인트로, 2. 기존 블록체인 플랫폼의 약점, 3. 클레이튼 이해하기](https://www.inflearn.com/course/클레이튼)) 수강<br/>- 인프런 강의([블록체인과 솔리디티](https://www.inflearn.com/course/블록체인-blockchain)) 수강 —> **결과물 : 투표앱(이더리움)** | 이성희 |
 | 2회  | 8/19 | - 인프런 강의([4. 클레이튼 덧셈게임 개발 with Klaytn Tools, 5. 클레이튼 덧셈게임 개발 프론트앤드 6. 마무리](https://www.inflearn.com/course/클레이튼)) 수강 —> **결과물 : 덧셈게임, 인프런 수강완료 캡쳐** <br/> - 비트코인 기본 개념 조사<br/>- BApp 기획(앱 주제 선정, 사용 기술 확정, 기능 정리, 일정 계획, 업무 분담) | 정지우 |
-| 3회  | 미정 | - 클레이튼 tutorial : Klaystagram 구현 --> **결과물 : Klaystagram**<br/>- 클레이튼 docs 조사 및 공부<br/> - BApp 아키텍쳐 설계(디자인, 데이터베이스, 스마트 컨트랙트) | 최은지 |
-| 4회  | 미정 | - 인프런 강의([블록체인 Dapp 개발에 트러플 활용하기_기본편](https://www.inflearn.com/course/Dapp-Truffle-blockchain-basic)) 수강 <br/> - 인프런 강의([블록체인 Dapp 이더리움_트랜잭션](https://www.inflearn.com/course/블록체인-Dapp-이더리움-트랜잭션#description)) 수강 <br/>- BApp 개발 시작 | 이성희 |
+| 3회  | 8/27 | - 클레이튼 tutorial : Klaystagram 구현 --> **결과물 : Klaystagram**<br/>- 클레이튼 docs 조사 및 공부<br/> - BApp 아키텍쳐 설계(디자인, 데이터베이스, 스마트 컨트랙트) | 최은지 |
+| 4회  | 9/2  | - 인프런 강의([블록체인 Dapp 개발에 트러플 활용하기_기본편](https://www.inflearn.com/course/Dapp-Truffle-blockchain-basic)) 수강 <br/> - 인프런 강의([블록체인 Dapp 이더리움_트랜잭션](https://www.inflearn.com/course/블록체인-Dapp-이더리움-트랜잭션#description)) 수강 <br/>- BApp 개발 시작 | 이성희 |
 | 5회  | 미정 |                         - BApp 개발                          | 배수혜 |
 | 6회  | 미정 |     - BApp 개발 완성 및 결과물 제출 —> **결과물 : BApp**     | 최리안 |
 
